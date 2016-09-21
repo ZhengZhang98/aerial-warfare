@@ -1,4 +1,4 @@
-# aerial-warfare
+# Aerial-Warfare
 Java GUI
 
 This is a shooting game which is designed to be object-oriented. Using AWT and Swing.

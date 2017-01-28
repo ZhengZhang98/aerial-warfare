@@ -37,12 +37,12 @@ public class Hero extends FlyingObject{
 	}
 	
 
-	public void addLife(){  //����
+	public void addLife(){ 
 		life++;
 	}
 	
 
-	public void subtractLife(){   //����
+	public void subtractLife(){
 		life--;
 	}
 	
